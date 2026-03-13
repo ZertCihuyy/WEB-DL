@@ -23,7 +23,7 @@ Repository: https://github.com/ZertCihuyy/WEB-DL
     Instagram, X/Twitter, Facebook, dan ribuan situs lain.
 -   **Auto Dependency Installer** -- Script akan otomatis menginstal
     library yang dibutuhkan.
--   **JSON Subtitle â†’ SRT Converter** -- Mengubah subtitle JSON dari
+-   **JSON Subtitle’ SRT Converter** -- Mengubah subtitle JSON dari
     Inspect Element menjadi file `.srt`.
 -   **Audio Extraction Mode** -- Ekstrak audio menjadi `.mp3` kualitas
     tinggi.
